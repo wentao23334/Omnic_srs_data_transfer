@@ -47,7 +47,7 @@ pip install numpy
 
 ## 使用方法
 
-1. 进入 `finished/` 目录：
+1. 进入目录，此处以`finished/`为例：
 
    ```bash
    cd finished
